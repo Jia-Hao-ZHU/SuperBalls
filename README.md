@@ -1,2 +1,2 @@
 # SuperBalls
-game repository of SuperBalls
+top-down pool game with cool abilities
